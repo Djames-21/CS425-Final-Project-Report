@@ -4,7 +4,7 @@ Team members: Dunton James
 
 Game Name: Stealth Survival
 
-Overview:
+Overview:\n
 The player navigates around the environment attempting to stay hidden from roaming enemies as long as they can. The enemies will attept to find the player by wandering through the environment and trying to give chase if they spot you. The game will end if one of the enemies catches you by getting close to the player.
 
 Technical Components:
