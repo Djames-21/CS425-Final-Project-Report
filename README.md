@@ -1,6 +1,7 @@
 # CS425-Final-Project-Report
 
 Team members: Dunton James
+
 Game Name: Stealth Survival
 
 Overview:
